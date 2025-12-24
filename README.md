@@ -8,8 +8,8 @@
 
 // --- НАСТРОЙКИ ---
 var MIN_PX  = 10;  // Порог валидности сцены (>= 10 px)
-var S_START = 6;   // Июнь
-var S_END   = 9;   // Сентябрь
+var S_START = 6;
+var S_END   = 8;  // Август
 
 // 1. ROI (~6×6 км)
 var roi = ee.Geometry.Rectangle([70.1446, 41.0091, 70.2158, 41.0632]);
