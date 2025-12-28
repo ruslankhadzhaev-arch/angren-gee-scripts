@@ -1,3 +1,5 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/ruslankhadzhaev-arch/angren-gee-scripts?utm_source=oss&utm_medium=github&utm_campaign=ruslankhadzhaev-arch%2Fangren-gee-scripts&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 /*
  * ==========================================================================================
  * ANGREN: QC + PROOF EDITION (1990–2024) — STABLE GEE JS
